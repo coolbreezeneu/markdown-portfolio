@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Chorizo
+* Italian Sausage
+* Hot dogs
